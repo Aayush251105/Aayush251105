@@ -551,21 +551,51 @@ Building the intersection between intelligent systems and reliable software.
 
 <br />
 
-<!-- ========================================================= -->
-<!--                   CONTRIBUTION SNAKE                      -->
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION ACTIVITY                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>🐍 Contribution Activity</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Aayush251105/Aayush251105/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub contribution snake animation"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush251105&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area_color=063B4A&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Aayush Gupta GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake.svg"
+      alt="Aayush Gupta GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Building consistently. Learning continuously. Shipping relentlessly.</sub>
+</p>
 <br />
 
 <!-- ========================================================= -->

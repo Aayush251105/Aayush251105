@@ -559,7 +559,7 @@ Building the intersection between intelligent systems and reliable software.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush251105&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area_color=063B4A&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush251105&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area_color=063B4A&area=true&hide_border=true"
     alt="Aayush Gupta GitHub Contribution Activity"
     width="100%"
   />
@@ -571,7 +571,6 @@ Building the intersection between intelligent systems and reliable software.
 <!--                     CONTRIBUTION SNAKE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -592,6 +591,11 @@ Building the intersection between intelligent systems and reliable software.
   </picture>
 </p>
 
+<br>
+
+<p align="center">
+  <sub>Building consistently. Learning continuously. Shipping relentlessly.</sub>
+</p>
 <br>
 
 <p align="center">

@@ -3,9 +3,7 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -18,18 +16,19 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate GitHub Contribution Snake
+      - name: Generate cyan contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D9FF
+            dist/github-contribution-grid-snake.svg?color_snake=#00D9FF&color_dots=#0D1117,#063B4A,#087E9B,#00B8D9,#00D9FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00D9FF&color_dots=#0D1117,#063B4A,#087E9B,#00B8D9,#00D9FF
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: Update cyan contribution snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

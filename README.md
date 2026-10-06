@@ -596,11 +596,6 @@ Building the intersection between intelligent systems and reliable software.
 <p align="center">
   <sub>Building consistently. Learning continuously. Shipping relentlessly.</sub>
 </p>
-<br>
-
-<p align="center">
-  <sub>Building consistently. Learning continuously. Shipping relentlessly.</sub>
-</p>
 <br />
 
 <!-- ========================================================= -->

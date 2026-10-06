@@ -571,20 +571,21 @@ Building the intersection between intelligent systems and reliable software.
 <!--                     CONTRIBUTION SNAKE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://cdn.jsdelivr.net/gh/Ayush251105/Ayush251105@output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake.svg"
+      srcset="https://cdn.jsdelivr.net/gh/Ayush251105/Ayush251105@output/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake.svg"
+      src="https://cdn.jsdelivr.net/gh/Ayush251105/Ayush251105@output/github-contribution-grid-snake.svg"
       alt="Aayush Gupta GitHub Contribution Snake"
       width="100%"
     />

@@ -1,3 +1,17 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="header-dark.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="header-light.png"
+  />
+  <img
+    alt="Aayush Gupta — Software Engineer"
+    src="header-light.png"
+  />
+</picture>
 # 💫 About Me:
 Hi! I’m Aayush Gupta, a 3rd-year Computer Science undergraduate at Shiv Nadar University, Noida, with a strong foundation in software engineering and a growing interest in Artificial Intelligence and Machine Learning.<br><br>I enjoy building scalable, full-stack web applications and have hands-on experience working with modern frameworks like React.js and Next.js, designing RESTful APIs, and managing databases. I like thinking through problems end-to-end — from clean UI design to backend logic, performance, and data modeling.<br><br>Alongside web development, I am deeply curious about AI/ML and actively exploring its mathematical and algorithmic foundations, including supervised and unsupervised learning, optimization, and linear algebra. I enjoy understanding why models work, not just how to use them, and I aim to bridge strong software engineering with intelligent systems.<br><br>I’m continuously improving my problem-solving skills through Data Structures & Algorithms, and I enjoy learning by building, experimenting, and breaking things along the way. I’m currently looking to grow as an engineer by working on impactful projects, collaborating with like-minded people, and exploring opportunities where technology meets real-world problems.<br><br>📌 Interests: Full-stack development • AI/ML foundations • Problem solving<br>📫 Let’s connect: Feel free to check out my repositories or reach out for collaboration!
 

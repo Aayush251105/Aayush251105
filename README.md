@@ -552,7 +552,7 @@ Building the intersection between intelligent systems and reliable software.
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION ACTIVITY                       -->
+<!--                 CONTRIBUTION ACTIVITY                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📈 Contribution Activity</h2>
@@ -568,7 +568,7 @@ Building the intersection between intelligent systems and reliable software.
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                         -->
+<!--                  CONTRIBUTION SNAKE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -577,15 +577,15 @@ Building the intersection between intelligent systems and reliable software.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://github.com/Ayush251105/Ayush251105/raw/refs/heads/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake.svg"
+      srcset="https://github.com/Ayush251105/Ayush251105/raw/refs/heads/output/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/Ayush251105/Ayush251105/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
+      src="https://github.com/Ayush251105/Ayush251105/raw/refs/heads/output/github-contribution-grid-snake.svg"
+      alt="Aayush Gupta GitHub Contribution Snake"
       width="100%"
     />
   </picture>
@@ -596,8 +596,8 @@ Building the intersection between intelligent systems and reliable software.
 <p align="center">
   <sub>Building consistently. Learning continuously. Shipping relentlessly.</sub>
 </p>
-<br />
 
+<br />
 <!-- ========================================================= -->
 <!--                    GITHUB STREAK                          -->
 <!-- ========================================================= -->

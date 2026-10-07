@@ -538,12 +538,6 @@ Building the intersection between intelligent systems and reliable software.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush251105&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00D9FF&text_color=8FA3B8" height="170" alt="Top languages" />
 </p>
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush251105&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area_color=063B4A&area=true&hide_border=true" alt="GitHub Contribution Activity" width="100%" />
-</p>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">

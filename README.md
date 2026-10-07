@@ -531,71 +531,30 @@ Building the intersection between intelligent systems and reliable software.
 <!--                     GITHUB STATS                          -->
 <!-- ========================================================= -->
 
-<h2>📊 GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Aayush251105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=8FA3B8"
-  height="170"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush251105&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00D9FF&text_color=8FA3B8"
-  height="170"
-  alt="Top languages"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush251105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=8FA3B8" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush251105&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00D9FF&text_color=8FA3B8" height="170" alt="Top languages" />
 </p>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION ACTIVITY                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush251105&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area_color=063B4A&area=true&hide_border=true"
-    alt="Aayush Gupta GitHub Contribution Activity"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush251105&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area_color=063B4A&area=true&hide_border=true" alt="GitHub Contribution Activity" width="100%" />
 </p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/Ayush251105/Ayush251105/raw/refs/heads/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github.com/Ayush251105/Ayush251105/raw/refs/heads/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://github.com/Ayush251105/Ayush251105/raw/refs/heads/output/github-contribution-grid-snake.svg"
-      alt="Aayush Gupta GitHub Contribution Snake"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush251105/Aayush251105/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush251105/Aayush251105/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Aayush251105/Aayush251105/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
   </picture>
 </p>
 
-<br>
-
-<p align="center">
-  <sub>Building consistently. Learning continuously. Shipping relentlessly.</sub>
-</p>
+<p align="center"><sub>Building consistently. Learning continuously. Shipping relentlessly.</sub></p>
 
 <br />
 <!-- ========================================================= -->
@@ -603,12 +562,7 @@ Building the intersection between intelligent systems and reliable software.
 <!-- ========================================================= -->
 
 <p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Aayush251105&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8FA3B8&dates=8FA3B8"
-  alt="GitHub contribution streak"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=Aayush251105&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8FA3B8&dates=8FA3B8" alt="GitHub contribution streak" />
 </p>
 
 <br />
